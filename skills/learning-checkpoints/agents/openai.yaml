@@ -1,0 +1,4 @@
+interface:
+  display_name: "四检查点学习"
+  short_description: "围绕具体问题补齐概念、解释机制，并以轻量的新情境检验理解"
+  default_prompt: "请用$learning-checkpoints帮助我理解这个陌生知识点，结合具体例子，只补必要基础，并按需检验理解。"
